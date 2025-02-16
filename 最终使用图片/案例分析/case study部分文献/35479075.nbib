@@ -1,0 +1,142 @@
+PMID- 35479075
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220429
+LR  - 20220716
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 13
+DP  - 2022
+TI  - A Multi-Omics Study of Familial Lung Cancer: Microbiome and Host Gene Expression 
+      Patterns.
+PG  - 827953
+LID - 10.3389/fimmu.2022.827953 [doi]
+LID - 827953
+AB  - BACKGROUND: Inherited susceptibility and environmental carcinogens are crucial 
+      players in lung cancer etiology. The lung microbiome is getting rising attention 
+      in carcinogenesis. The present work sought to investigate the microbiome in lung 
+      cancer patients affected by familial lung cancer (FLC) and indoor air pollution 
+      (IAP); and further, to compare host gene expression patterns with their 
+      microbiome for potential links. METHODS: Tissue sample pairs (cancer and adjacent 
+      nonmalignant tissue) were used for 16S rRNA (microbiome) and RNA-seq (host gene 
+      expression). Subgroup microbiome diversities and their matched gene expression 
+      patterns were analyzed. Significantly enriched taxa were screened out, based on 
+      different clinicopathologic characteristics. RESULTS: Our FLC microbiome seemed 
+      to be smaller, low-diversity, and inactive to change; we noted microbiome 
+      differences in gender, age, blood type, anatomy site, histology type, TNM stage 
+      as well as IAP and smoking conditions. We also found smoking and IAP dramatically 
+      decreased specific-OTU biodiversity, especially in normal lung tissue. 
+      Intriguingly, enriched microbes were in three categories: opportunistic 
+      pathogens, probiotics, and pollutant-detoxication microbes; this third category 
+      involved Sphingomonas, Sphingopyxis, etc. which help degrade pollutants, but may 
+      also cause epithelial damage and chronic inflammation. RNA-seq highlighted IL17, 
+      Ras, MAPK, and Notch pathways, which are associated with carcinogenesis and 
+      compromised immune system. CONCLUSIONS: The lung microbiome can play vital roles 
+      in carcinogenesis. FLC and IAP subjects were affected by fragile lung epithelium, 
+      vulnerable host-microbes equilibrium, and dysregulated immune surveillance and 
+      response. Our findings provided useful information to study the triple interplay 
+      among environmental carcinogens, population genetic background, and diversified 
+      lung microbiome.
+CI  - Copyright © 2022 Chen, Huang, Ding, Yang, He, Ning, Yang, He, Yang, Liu, Chen and 
+      Li.
+FAU - Chen, Ying
+AU  - Chen Y
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - Huang, Yunchao
+AU  - Huang Y
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - Ding, Xiaojie
+AU  - Ding X
+AD  - The International Cooperation Key Laboratory of Regional Tumor in High Altitude 
+      Area, the Third Affiliated Hospital of Kunming Medical University (Yunnan Cancer 
+      Hospital, Yunnan Cancer Center), Kunming, China.
+FAU - Yang, Zhenlin
+AU  - Yang Z
+AD  - National Cancer Center/National Clinical Research Center for Cancer, Cancer 
+      Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing, China.
+FAU - He, Liang
+AU  - He L
+AD  - Department of Clinical Laboratory, The Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - Ning, Mingjie
+AU  - Ning M
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - Yang, Zhenghong
+AU  - Yang Z
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - He, Daqian
+AU  - He D
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+FAU - Yang, Lijuan
+AU  - Yang L
+AD  - KeRui BioTech Co., Ltd, Kunming, China.
+FAU - Liu, Zhangyi
+AU  - Liu Z
+AD  - MeiYin BioTech Co., Ltd, Wuhan, China.
+FAU - Chen, Yan
+AU  - Chen Y
+AD  - Cancer Research Institute of Yunnan Province, The Third Affiliated Hospital of 
+      Kunming Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), 
+      Kunming, China.
+FAU - Li, Guangjian
+AU  - Li G
+AD  - Department of Thoracic Surgery I, the Third Affiliated Hospital of Kunming 
+      Medical University (Yunnan Cancer Hospital, Yunnan Cancer Center), Kunming, 
+      China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220411
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Carcinogens, Environmental)
+RN  - 0 (RNA, Ribosomal, 16S)
+SB  - IM
+MH  - Carcinogenesis/pathology
+MH  - *Carcinogens, Environmental/pharmacology
+MH  - Gene Expression
+MH  - Humans
+MH  - Lung/pathology
+MH  - *Lung Neoplasms/genetics/pathology
+MH  - *Microbiota/physiology
+MH  - RNA, Ribosomal, 16S/genetics
+PMC - PMC9037597
+OTO - NOTNLM
+OT  - IL17
+OT  - familial lung cancer
+OT  - immune
+OT  - indoor air pollution
+OT  - microbiome
+OT  - pollutants-detoxication
+COIS- Author LY is the CEO of KeRui BioTech Co.,Ltd; Author ZYL is the CEO of MeiYin 
+      BioTech Co.,Ltd. The remaining authors declare that the research was conducted in 
+      the absence of any commercial or financial relationships that could be construed 
+      as a potential conflict of interest.
+EDAT- 2022/04/29 06:00
+MHDA- 2022/04/30 06:00
+PMCR- 2022/01/01
+CRDT- 2022/04/28 06:15
+PHST- 2021/12/02 00:00 [received]
+PHST- 2022/03/09 00:00 [accepted]
+PHST- 2022/04/28 06:15 [entrez]
+PHST- 2022/04/29 06:00 [pubmed]
+PHST- 2022/04/30 06:00 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - 10.3389/fimmu.2022.827953 [doi]
+PST - epublish
+SO  - Front Immunol. 2022 Apr 11;13:827953. doi: 10.3389/fimmu.2022.827953. eCollection 
+      2022.

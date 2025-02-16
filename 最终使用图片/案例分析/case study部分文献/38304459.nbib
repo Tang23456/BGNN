@@ -1,0 +1,118 @@
+PMID- 38304459
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240205
+LR  - 20241023
+IS  - 2235-2988 (Electronic)
+IS  - 2235-2988 (Linking)
+VI  - 13
+DP  - 2023
+TI  - Gut microbiota and its metabolites in non-small cell lung cancer and brain 
+      metastasis: from alteration to potential microbial markers and drug targets.
+PG  - 1211855
+LID - 10.3389/fcimb.2023.1211855 [doi]
+LID - 1211855
+AB  - BACKGROUND: The elevated mortality rate associated with non-small-cell lung 
+      cancer (NSCLC) is a well-established global concern. Considerable attention has 
+      been directed toward exploring the association between gut microbiota and various 
+      malignant tumors. We herein investigated the associations between the intestinal 
+      microbiome and its metabolites, particularly short-chain fatty acids (SCFAs), in 
+      patients with NSCLC at different stages, including early and brain metastasis 
+      (BM) stages. The findings aim to offer a fresh perspective on the diagnosis and 
+      management of NSCLC. METHODS: Fecal samples were collected from 115 participants, 
+      comprising healthy controls (n = 35) and patients with treatment-naive NSCLC at 
+      the early stage (ELC, n = 40) and the BM stage (n = 40). Characterization of the 
+      intestinal microbiome and fecal SCFA levels was performed using 16S rRNA gene 
+      sequencing and gas chromatography. RESULTS: The microbial diversity in patients 
+      with NSCLC was found to be less abundant and uniform, particularly in the BM 
+      stage. Significant alterations in the community structure of the gut microbiota 
+      were observed in patients with NSCLC, with an increase in pathogens in 
+      Fusobacteria and Proteobacteria and a decrease in SCFA-producing bacteria in 
+      Firmicutes and Actinobacteria, particularly in the BM stage. Meanwhile, microbial 
+      communities displayed intricate associations in patients with NSCLC. A biomarker 
+      panel (Faecalibacterium, Bifidobacterium, Butyricicoccus, Klebsiella, 
+      Streptococcus, and Blautia) successfully distinguished patients in the ELC and BM 
+      stages from healthy controls (area under the curve: 0.884). The overall 
+      concentration of fecal SCFAs was significantly lower in patients with BM compared 
+      to patients with ELC and healthy controls. Subgroup analysis of acetate and 
+      butyrate yielded similar results. Moreover, multiple disrupted pathways in the 
+      NSCLC group were identified using the Kyoto Encyclopedia of Genes and Genomes 
+      annotation, including lipid metabolism and genetic information processing, 
+      specifically in the BM stage. CONCLUSION: Compared with healthy controls, 
+      distinct host-microbe interactions were evident in different phases of patients 
+      with NSCLC. Furthermore, specific forms of the gut microbiome and SCFAs may serve 
+      as valuable biomarkers and therapeutic targets in the diagnosis and treatment of 
+      NSCLC.
+CI  - Copyright © 2024 Jiang, Zeng, Zhang, Li, Wang, Peng and Cao.
+FAU - Jiang, Haixiao
+AU  - Jiang H
+AD  - Department of Neurosurgery, The Affiliated Hospital of Yangzhou University, 
+      Yangzhou, China.
+FAU - Zeng, Wei
+AU  - Zeng W
+AD  - Department of Neurosurgery, Yancheng First Hospital, Affiliated Hospital of 
+      Nanjing University Medical School, Yancheng, China.
+FAU - Zhang, Xiaoli
+AU  - Zhang X
+AD  - Department of Medical Imaging, The Affiliated Hospital of Yangzhou University, 
+      Yangzhou, China.
+FAU - Li, Yuping
+AU  - Li Y
+AD  - Department of Neurosurgery, Clinical Medical College of Yangzhou University, 
+      Yangzhou, China.
+FAU - Wang, Yilun
+AU  - Wang Y
+AD  - Department of Thoracic Surgery, Clinical Medical College of Yangzhou University, 
+      Yangzhou, China.
+FAU - Peng, Aijun
+AU  - Peng A
+AD  - Department of Neurosurgery, The Affiliated Hospital of Yangzhou University, 
+      Yangzhou, China.
+FAU - Cao, Demao
+AU  - Cao D
+AD  - Department of Neurosurgery, The Affiliated Hospital of Yangzhou University, 
+      Yangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240118
+PL  - Switzerland
+TA  - Front Cell Infect Microbiol
+JT  - Frontiers in cellular and infection microbiology
+JID - 101585359
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - 0 (Fatty Acids, Volatile)
+SB  - IM
+MH  - Humans
+MH  - *Gastrointestinal Microbiome/genetics
+MH  - *Carcinoma, Non-Small-Cell Lung
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - *Lung Neoplasms
+MH  - Fatty Acids, Volatile
+MH  - Bacteria/genetics
+MH  - Feces/microbiology
+MH  - *Brain Neoplasms
+PMC - PMC10830900
+OTO - NOTNLM
+OT  - SCFAs
+OT  - brain metastasis
+OT  - gut microbiota
+OT  - gut-lung axis
+OT  - lung cancer
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/02/02 06:43
+MHDA- 2024/02/05 06:43
+PMCR- 2023/01/01
+CRDT- 2024/02/02 04:08
+PHST- 2023/04/25 00:00 [received]
+PHST- 2023/12/14 00:00 [accepted]
+PHST- 2024/02/05 06:43 [medline]
+PHST- 2024/02/02 06:43 [pubmed]
+PHST- 2024/02/02 04:08 [entrez]
+PHST- 2023/01/01 00:00 [pmc-release]
+AID - 10.3389/fcimb.2023.1211855 [doi]
+PST - epublish
+SO  - Front Cell Infect Microbiol. 2024 Jan 18;13:1211855. doi: 
+      10.3389/fcimb.2023.1211855. eCollection 2023.

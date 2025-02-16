@@ -1,0 +1,143 @@
+PMID- 36049483
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221017
+LR  - 20221216
+IS  - 1934-6069 (Electronic)
+IS  - 1931-3128 (Linking)
+VI  - 30
+IP  - 10
+DP  - 2022 Oct 12
+TI  - Gut microbial DL-endopeptidase alleviates Crohn's disease via the NOD2 pathway.
+PG  - 1435-1449.e9
+LID - S1931-3128(22)00395-X [pii]
+LID - 10.1016/j.chom.2022.08.002 [doi]
+AB  - The pattern-recognition receptor NOD2 senses bacterial muropeptides to regulate 
+      host immunity and maintain homeostasis. Loss-of-function mutations in NOD2 are 
+      associated with Crohn's disease (CD), but how the variations in microbial factors 
+      influence NOD2 signaling and host pathology is elusive. We demonstrate that the 
+      Firmicutes peptidoglycan remodeling enzyme, DL-endopeptidase, increased the NOD2 
+      ligand level in the gut and impacted colitis outcomes. Metagenomic analyses of 
+      global cohorts (n = 857) revealed that DL-endopeptidase gene abundance decreased 
+      globally in CD patients and negatively correlated with colitis. Fecal microbiota 
+      from CD patients with low DL-endopeptidase activity predisposed mice to colitis. 
+      Administering DL-endopeptidase, but not an active site mutant, alleviated colitis 
+      via the NOD2 pathway. Therapeutically restoring NOD2 ligands with a 
+      DL-endopeptidase-producing Lactobacillus salivarius strain or mifamurtide, a 
+      clinical analog of muramyl dipeptide, exerted potent anti-colitis effects. Our 
+      study suggests that the depletion of DL-endopeptidase contributes to CD 
+      pathogenesis through NOD2 signaling, providing a therapeutically modifiable 
+      target.
+CI  - Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Gao, Jie
+AU  - Gao J
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou, Guangdong 510655, China.
+FAU - Zhao, Xinmei
+AU  - Zhao X
+AD  - Guangdong Provincial Key Laboratory of Gastroenterology, Institute of 
+      Gastroenterology of Guangdong Province, Department of Gastroenterology, Nanfang 
+      Hospital, Southern Medical University, Guangzhou, Guangdong 510515, China.
+FAU - Hu, Shixian
+AU  - Hu S
+AD  - Department of Gastroenterology and Hepatology, University of Groningen, 
+      University Medical Center Groningen, Groningen 9713 AV, the Netherlands; 
+      Department of Genetics, University of Groningen, University Medical Center 
+      Groningen, Groningen 9713 AV, the Netherlands.
+FAU - Huang, Zhenhe
+AU  - Huang Z
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou, Guangdong 510655, China.
+FAU - Hu, Mengyao
+AU  - Hu M
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou, Guangdong 510655, China.
+FAU - Jin, Shaoqin
+AU  - Jin S
+AD  - Department of Gastroenterology, Zhujiang Hospital, Southern Medical University, 
+      Guangzhou 510282, China.
+FAU - Lu, Bingyun
+AU  - Lu B
+AD  - Department of Gastroenterology, Shenzhen Hospital, Southern Medical University, 
+      Shenzhen, Guangdong 518101, China.
+FAU - Sun, Kai
+AU  - Sun K
+AD  - Department of General Surgery, Nanfang Hospital, Southern Medical University, 
+      Guangzhou, Guangdong 510515, China.
+FAU - Wang, Zhang
+AU  - Wang Z
+AD  - Institute of Ecological Sciences, School of Life Sciences, South China Normal 
+      University, Guangzhou, Guangdong 510515, China.
+FAU - Fu, Jingyuan
+AU  - Fu J
+AD  - Department of Genetics, University of Groningen, University Medical Center 
+      Groningen, Groningen 9713 AV, the Netherlands; Department of Pediatrics, 
+      University of Groningen, University Medical Center Groningen, Groningen 9700 RB, 
+      the Netherlands.
+FAU - Weersma, Rinse K
+AU  - Weersma RK
+AD  - Department of Gastroenterology and Hepatology, University of Groningen, 
+      University Medical Center Groningen, Groningen 9713 AV, the Netherlands. 
+      Electronic address: r.k.weersma@mdl.umcg.nl.
+FAU - He, Xiaolong
+AU  - He X
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou, Guangdong 510655, China; Department of 
+      Microbiology, Guangdong Provincial Key Laboratory of Tropical Disease Research, 
+      School of Public Health, Southern Medical University, Guangzhou, Guangdong 
+      510515, China. Electronic address: hxl2027315@smu.edu.cn.
+FAU - Zhou, Hongwei
+AU  - Zhou H
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou, Guangdong 510655, China; State Key 
+      Laboratory of Organ Failure Research, Southern Medical University, Guangzhou, 
+      Guangdong 510515, China. Electronic address: biodegradation@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20220831
+PL  - United States
+TA  - Cell Host Microbe
+JT  - Cell host & microbe
+JID - 101302316
+RN  - 0 (Ligands)
+RN  - 0 (Nod2 Signaling Adaptor Protein)
+RN  - 0 (Peptidoglycan)
+RN  - 53678-77-6 (Acetylmuramyl-Alanyl-Isoglutamine)
+RN  - EC 3.4.- (Endopeptidases)
+SB  - IM
+CIN - Cell Host Microbe. 2022 Oct 12;30(10):1345-1346. doi: 10.1016/j.chom.2022.09.009. 
+      PMID: 36228581
+CIN - Sci Signal. 2022 Nov 15;15(760):eadf7180. doi: 10.1126/scisignal.adf7180. PMID: 
+      36378748
+MH  - Acetylmuramyl-Alanyl-Isoglutamine/chemistry/metabolism
+MH  - Animals
+MH  - *Colitis
+MH  - *Crohn Disease/metabolism
+MH  - Endopeptidases
+MH  - *Gastrointestinal Microbiome
+MH  - Ligands
+MH  - Mice
+MH  - Nod2 Signaling Adaptor Protein/genetics
+MH  - Peptidoglycan/metabolism
+OTO - NOTNLM
+OT  - Crohn’s disease
+OT  - DL-endopeptidase
+OT  - NOD2
+OT  - gut microbiota
+OT  - metagenomics
+COIS- Declaration of interests H.W.Z. is listed as an inventor on patents related to 
+      the anti-colitis effect of the isolated L. salivarius and mifamurtide.
+EDAT- 2022/09/02 06:00
+MHDA- 2022/10/18 06:00
+CRDT- 2022/09/01 18:42
+PHST- 2022/04/11 00:00 [received]
+PHST- 2022/07/10 00:00 [revised]
+PHST- 2022/08/03 00:00 [accepted]
+PHST- 2022/09/02 06:00 [pubmed]
+PHST- 2022/10/18 06:00 [medline]
+PHST- 2022/09/01 18:42 [entrez]
+AID - S1931-3128(22)00395-X [pii]
+AID - 10.1016/j.chom.2022.08.002 [doi]
+PST - ppublish
+SO  - Cell Host Microbe. 2022 Oct 12;30(10):1435-1449.e9. doi: 
+      10.1016/j.chom.2022.08.002. Epub 2022 Aug 31.

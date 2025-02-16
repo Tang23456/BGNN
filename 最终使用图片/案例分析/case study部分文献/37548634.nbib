@@ -1,0 +1,120 @@
+PMID- 37548634
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230914
+LR  - 20230914
+IS  - 1750-3841 (Electronic)
+IS  - 0022-1147 (Linking)
+VI  - 88
+IP  - 9
+DP  - 2023 Sep
+TI  - Oral administration of Bifidobacterium longum WHH2270 ameliorates type 2 diabetes 
+      in rats.
+PG  - 3967-3983
+LID - 10.1111/1750-3841.16727 [doi]
+AB  - Accumulating evidence suggests that specific probiotic strains exert hypoglycemic 
+      effects on type 2 diabetes mellitus (T2DM), and probiotic strains within 
+      Bifidobacterium exhibit potential beneficial effects on T2DM. In this study, 
+      α-glucosidase inhibitory activities of 14 Bifidobacterium strains were assessed 
+      in vitro. The hypoglycemic effects of Bifidobacterium longum WHH2270 with high 
+      α-glucosidase inhibitory activity (42.03%) were then investigated in a high-fat 
+      diet/streptozotocin-induced T2DM rat model. Oral administration of WHH2270 (4 × 
+      10(9) CFU/kg/day) for 8 weeks significantly reversed the reduced body weight and 
+      ameliorated the levels of fasting blood glucose, serum triglyceride, serum total 
+      cholesterol, glucose tolerance, and insulin resistance in T2DM rats. Using 16S 
+      rRNA high-throughput sequencing of feces, WHH2270 was revealed to reshape the gut 
+      microbiome composition by increasing the abundances of Lactobacillus and 
+      Bifidobacterium and decreasing the abundances of UCG_005, Clostridium, and 
+      Faecalibacterium in T2DM rats. Besides, the fecal levels of short-chain fatty 
+      acids (SCFAs) including acetate, propionate, and butyrate were also elevated 
+      after WHH2270 administration. Moreover, the gene expressions of SCFA receptors 
+      FFAR2 and FFAR3 in the colon and pancreas of T2DM rats were restored by WHH2270 
+      administration, accompanied by increased levels of serum acetate. In summary, 
+      these results provide evidence that WHH2270 has the potential to improve T2DM 
+      symptoms by alleviating hyperglycemia, which was associated with changes in the 
+      gut microbiome composition and SCFA production. PRACTICAL APPLICATION: 
+      Bifidobacterium longum WHH2270 with high α-glucosidase inhibitory activity may 
+      serve as a promising hypoglycemic agent for the treatment of T2DM.
+CI  - © 2023 Institute of Food Technologists.
+FAU - Gao, Kan
+AU  - Gao K
+AUID- ORCID: 0000-0002-9053-3999
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+AD  - College of Animal Science, MOE Key Laboratory of Molecular Animal Nutrition, 
+      Zhejiang University, Hangzhou, P. R. China.
+FAU - Ren, Xueliang
+AU  - Ren X
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+FAU - Chen, Cailing
+AU  - Chen C
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+FAU - Fan, Qiuling
+AU  - Fan Q
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+FAU - Li, Yanjun
+AU  - Li Y
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+AD  - College of Biosystems Engineering and Food Science, Zhejiang University, 
+      Hangzhou, P. R. China.
+FAU - Wang, Haifeng
+AU  - Wang H
+AD  - College of Animal Science, MOE Key Laboratory of Molecular Animal Nutrition, 
+      Zhejiang University, Hangzhou, P. R. China.
+FAU - Chen, Su
+AU  - Chen S
+AD  - Research and Development Department, Hangzhou Wahaha Group Co., Ltd, Hangzhou, P. 
+      R. China.
+AD  - Key Laboratory of Food and Biological Engineering of Zhejiang Province, Hangzhou, 
+      P. R. China.
+LA  - eng
+GR  - 2022C02017/Science and Technology Projects of Zhejiang Province/
+PT  - Journal Article
+DEP - 20230807
+PL  - United States
+TA  - J Food Sci
+JT  - Journal of food science
+JID - 0014052
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - EC 3.2.1.20 (alpha-Glucosidases)
+RN  - 0 (Hypoglycemic Agents)
+SB  - IM
+MH  - Rats
+MH  - Animals
+MH  - *Bifidobacterium longum/genetics
+MH  - *Diabetes Mellitus, Type 2/therapy
+MH  - RNA, Ribosomal, 16S
+MH  - alpha-Glucosidases
+MH  - Bifidobacterium/genetics
+MH  - Administration, Oral
+MH  - Hypoglycemic Agents
+OTO - NOTNLM
+OT  - Bifidobacterium longum
+OT  - diabetes
+EDAT- 2023/08/07 13:10
+MHDA- 2023/09/14 06:42
+CRDT- 2023/08/07 10:44
+PHST- 2023/06/22 00:00 [revised]
+PHST- 2023/03/05 00:00 [received]
+PHST- 2023/07/14 00:00 [accepted]
+PHST- 2023/09/14 06:42 [medline]
+PHST- 2023/08/07 13:10 [pubmed]
+PHST- 2023/08/07 10:44 [entrez]
+AID - 10.1111/1750-3841.16727 [doi]
+PST - ppublish
+SO  - J Food Sci. 2023 Sep;88(9):3967-3983. doi: 10.1111/1750-3841.16727. Epub 2023 Aug 
+      7.

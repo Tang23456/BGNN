@@ -1,0 +1,32 @@
+Microbe	Code	TID
+Staphylococcus aureus	47	1280.0
+Bifidobacterium catenulatum	50	566552.0
+Clostridium leptum	58	428125.0
+Bacteroides ovatus	81	411476.0
+Bacteroides uniformis	82	411479.0
+Bacteroides vulgatus	83	435590.0
+Enterobacter aerogenes	103	1028307.0
+Klebsiella pneumoniae	107	573.0
+Bacteroides thetaiotaomicron	116	226186.0
+Eubacterium eligens	118	515620.0
+Lactobacillus iners	129	713605.0
+Tropheryma whipplei	137	203267.0
+Haemophilus parainfluenzae	155	862965.0
+Clostridium innocuum	231	999413.0
+Clostridium spiroforme	233	428126.0
+Lachnospiraceae bacterium A2	257	397290.0
+Prevotella copri	306	537011.0
+Alistipes finegoldii	310	679935.0
+Alistipes putredinis	311	445970.0
+Bacteroides eggerthii	312	483216.0
+Bacteroides finegoldii	313	483215.0
+Bacteroides sp. D20	314	585543.0
+Eubacterium hallii	317	411469.0
+Odoribacter splanchnicus	320	709991.0
+Parabacteroides distasonis	321	435591.0
+Parabacteroides merdae	322	411477.0
+Roseburia hominis	323	585394.0
+Ruminococcus gnavus	325	411470.0
+Streptococcus vestibularis	329	904306.0
+Veillonella dispar	331	546273.0
+Veillonella parvula	332	479436.0
